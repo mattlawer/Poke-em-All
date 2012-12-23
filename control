@@ -1,0 +1,9 @@
+Package: com.mathieubolard.pokeem-all
+Name: Poke'em-all
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mathieu Bolard
+Author: Mathieu Bolard
+Section: Tweaks
